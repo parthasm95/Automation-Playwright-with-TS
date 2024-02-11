@@ -3,7 +3,6 @@ This repo contains framework and Tests with Playwright Tool using TypeScript.
 
 
 ## Setup and Useful Commands : 
----
 ### Installing Playwright
 npx init playwright@latest
 
