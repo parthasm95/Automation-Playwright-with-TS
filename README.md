@@ -2,7 +2,7 @@
 Playwright setup and useful commands are mentioned below.
 
 
-* Installing Playwright
+* Installing Playwright/n
 npx init playwright@latest
 
 * Run Test(Default - Headless)
