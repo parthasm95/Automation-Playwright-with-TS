@@ -1,7 +1,9 @@
-## Automation-Playwright-with-TS
-Playwright setup and useful commands are mentioned below.
+# Automation-Playwright-with-TS
+This repo contains framework and Tests with Playwright Tool using TypeScript.
 
 
+## Setup and Useful Commands : 
+---
 ### Installing Playwright
 npx init playwright@latest
 
