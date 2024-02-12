@@ -29,3 +29,23 @@ npx playwright test --headed --project=chromium
 ### Run Test in UI mode
 npx playwright test --ui  
 
+## Selectors in Playwright : 
+### id Selector
+page.locator('id=value')
+
+### class name Selector
+page.locate('.className')
+
+### text Selector
+page.locator('text=value')
+
+### xpath Selector
+page.locator('xpath=xpathValue')
+page.locator('xpathValue') [playwright detects automatically]
+
+### css Selector
+page.locator('css=cssValue')
+page.locator('cssValue') [playwright detects automatically]
+
+### Data-Test-ID Selector
+page.getByTestId('value')
